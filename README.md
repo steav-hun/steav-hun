@@ -1,13 +1,12 @@
-# Hi there, I'm Senghun 👋
+# Hi, Nh bart Senghun
 
-- 🎓 A Computer Science student at RUPP (Royal University of Phnom Penh).
-- 🎓 A Software Engineer student at KSHRD (Korea Software HRD Center).
-- 💼 A Former JAVA Developer at eMoney.
-- 🚀 Always leveling up from junior to mid — one PR at a time.
+🎓 A Computer Science student at RUPP (Royal University of Phnom Penh).
+👨‍🎓 A Software Engineer student at KSHRD (Korea Software HRD Center).
+💼 A Former JAVA Developer at eMoney.
+🚀 Always leveling up from junior to senior at a time.
 
----
 
-## 💻 Tech Stack:
+## Tech Stack:
 
 ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -22,13 +21,5 @@
 ![Jenkins](https://img.shields.io/badge/JENKINS-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
-## 📊 GitHub Stats:
-
-![SGitHub stats](https://github-readme-stats.vercel.app/api?username=steav-hun&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steav-hun&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=steav-hun&label=PROFILE+VIEWS&color=0e75b6&style=flat)
