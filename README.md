@@ -1,13 +1,9 @@
-# Hi, Nh bart Senghun
-
-- 🎓 A Computer Science student at RUPP (Royal University of Phnom Penh).
-- 👨‍🎓 A Software Engineer student at KSHRD (Korea Software HRD Center).
-- 💼 A Former JAVA Developer at eMoney.
-- 🚀 Always leveling up from junior to senior at a time.
-
-
+# Hi, Nh bart Steav
+🎓 A Computer Science student at RUPP (Royal University of Phnom Penh).  
+👨‍🎓 A Software Engineer student at KSHRD (Korea Software HRD Center).  
+💼 A Former JAVA Developer at eMoney.  
+🚀 Always leveling up from junior to senior at a time.  
 ## Tech Stack:
-
 ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
